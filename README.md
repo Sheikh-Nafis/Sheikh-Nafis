@@ -33,8 +33,9 @@ I am a versatile developer with a passion for learning and creating. Whether it'
 
 ### 📊 Github Stats
 <div style="display: flex;">
-    <img alt="Stats of Sheikh Nafis" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Nafis&show_icons=true&theme=transparent"/>
-    <img alt="Languages" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Nafis&layout=compact&theme=transparent"/>
+    <img alt="Stats of Sheikh Nafis" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Sheikh-Nafis&show_icons=true&theme=omni"/>
+    <img alt="Languages" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Nafis&layout=compact&theme=omni"/>
 </div>
+
 
 
