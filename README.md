@@ -7,8 +7,6 @@ I am a versatile developer with a passion for learning and creating. Whether it'
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/e487297b-3397-4b27-83c9-f18dc601e6a6" width="400px"/>
-  
 ### 🧐 More About Me:
 
 - 🔍 &nbsp; Currently: Expanding skills across various languages and tools for exciting job opportunities.
@@ -18,8 +16,12 @@ I am a versatile developer with a passion for learning and creating. Whether it'
 - 🎥 &nbsp; Beyond Tech: Passionate about YouTube content creation and engaging with a dedicated audience.
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help.
 
-<be>
-  
+<br>
+
+<img align="right" alt="GIF" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/e487297b-3397-4b27-83c9-f18dc601e6a6" width="400px" height="230px"/>
+
+<br>
+
 ### 🔨 Tools and Languages:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
@@ -30,6 +32,8 @@ I am a versatile developer with a passion for learning and creating. Whether it'
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
+<br>
+<br>
 
 ### 📊 Github Stats
 <div style="display: flex;">
@@ -37,5 +41,5 @@ I am a versatile developer with a passion for learning and creating. Whether it'
     <img alt="Languages" style="width: 49%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Nafis&layout=compact&theme=omni"/>
 </div>
 
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
