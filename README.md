@@ -17,20 +17,26 @@ I am a versatile developer with a passion for learning and creating. Whether it'
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help.
 
 <br>
-
 <img align="right" alt="GIF" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/e487297b-3397-4b27-83c9-f18dc601e6a6" width="400px" height="230px"/>
 
 <br>
 
 ### 🔨 Tools and Languages:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/da45eda7-25ef-44e5-abbf-5afcc59254ba"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/ce153edf-6163-495e-86f7-53b6b81cd734"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/2401e4a6-635d-4f3e-8cd0-8d92bb493771"></a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"><img align="left" alt="cpp" height="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/b6b0a36e-50f1-461e-ac76-b9e41c5624ac"></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="django" height="40px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/5b2fef97-87c2-410e-80be-eaee43b6da70"></a>
 
+### ‎ 
+
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/9ac81e89-316a-48c1-8a8e-3276dda6d5b9"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/6b17032d-3b80-4bdf-a910-abe6838512d3"></a>
+<a href="https://www.figma.com/" target="_blank"> <img  align="left" alt="figma" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/8ff76598-fdb7-4853-aaf7-987ec69389e5"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img  align="left" alt="ps" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/debcfa45-8178-43c8-aeba-afcf88b62c37"/> </a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img  align="left" alt="pp" height ="42px" src="https://github.com/Sheikh-Nafis/Sheikh-Nafis/assets/93274502/5bc5b723-bfa5-44f8-b711-6c5cbfb90a54"/> </a>
+
+<br>
 <br>
 <br>
 <br>
